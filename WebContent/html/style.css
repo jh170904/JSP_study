@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+body{
+	font-family: 바탕;
+	font-size: 10pt; 
+}
+
+span.c01{
+	color: pink;
+	font-size: 15pt;
+	font-weight: bolder; 
+}
+
+a{
+	text-decoration: none;
+}
+
+span.c02{
+	color: green;
+	font-weight: bold;
+}
+
+td{
+	font-family: 궁서;
+}
